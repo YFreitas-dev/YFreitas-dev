@@ -13,12 +13,13 @@ Atualmente, complemento minha formação com estudos autodidatas, com laboratór
 <h2 align="left">Connect with me!</h2>
 
 ###
+
+
+<div> 
+  <a href="https://www.linkedin.com/in/yago-freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "yagofrei2009@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-<div>
-  <a href="https://www.linkedin.com/in/yago-freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div> <a href = "yagofrei2009@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  </div>
-
+</div>
 
 
 ###    **🐧 Linux -> Explorando o sistema, terminal e infraestrutura**
