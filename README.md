@@ -45,7 +45,7 @@ Meu objetivo atual é aprofundar meus conhecimentos técnicos e **ingressar no m
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Freitas303/Freitas303/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Freitas303/Freitas303/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Freitas303/Freitas303/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Freitas303/Freitas303/output/pacman-contribution-graph.svg">
 </picture>
 
